@@ -1,0 +1,6 @@
+{
+  "name": "DeadlinePilot AI",
+  "description": "Beat your last-minute deadlines with automated plan scheduling, focus tools, and stress-adaptive guide revisions powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
